@@ -48,6 +48,7 @@ Source/SourceNoRepo/
 
 # Recursos que se usan en el proyecto, pero no queremos o no podemos publicar en un repositorio público y con poco espacio (sean nuestros o ThirdParty)
 # Estas carpetas suelen tener CONTENIDO COMÚN a muchos proyectos de Unreal Engine 5 y el profesor las compartirá en forma de ZIP
+# También se podría ignorar Content/__ExternalActors__/FirstPerson, Content/__ExternalObjects__/FirstPerson, Content/__ExternalActors__/ThirdPerson y Content/__ExternalObjects__/ThirdPersonPerson ... pero no merece la pena (habría que tener los ZIPs en CONTENIDO COMÚN)
 Content/ContentNoRepo/
 Content/StarterContent/
 Content/Characters/
