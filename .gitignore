@@ -50,6 +50,7 @@ Source/SourceNoRepo/
 # Estas carpetas suelen tener CONTENIDO COMÚN a muchos proyectos de Unreal Engine 5 y el profesor las compartirá en forma de ZIP
 # También se podría ignorar Content/__ExternalActors__/FirstPerson, Content/__ExternalObjects__/FirstPerson, Content/__ExternalActors__/ThirdPerson y Content/__ExternalObjects__/ThirdPersonPerson ... pero no merece la pena (habría que tener los ZIPs en CONTENIDO COMÚN)
 Content/ContentNoRepo/
+Content/AnimStarterPack/
 Content/StarterContent/
 Content/Characters/
 Content/AdvancedCelShader/
@@ -58,6 +59,10 @@ Content/ExampleContent/
 Content/LevelPrototyping/
 Content/StarterContent/
 Content/StylizedProvencal/
+Content/ModSci_Engineer/
+Content/ModSci_EngiProps/
+Content/ModSci_Interiors/
+Content/StarterBundle/
 Content/TopDown/
 Content/FirstPerson/
 Content/FirstPersonArms/
