@@ -14,6 +14,15 @@ Para este proyecto hace falta descargar los ficheros ZIP de CONTENIDO COMÚN:
 * StarterContent
 * StylizedProvencal
 * TopDown
+* FirstPerson
+* FirstPersonArms
+* FPWeapon
+* ThirdPerson
+* AnimStarterPack
+* ModSci_Engineer
+* ModSci_EngiProps
+* ModSciInteriors
+* StarterBundle
 
 Y de CONTENIDO PARTICULAR:
 * Megascans
