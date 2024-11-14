@@ -62,6 +62,7 @@ Content/TopDown/
 Content/FirstPerson/
 Content/FirstPersonArms/
 Content/FPWeapon/
+Content/ThirdPerson/
 # Estas otras carpetas tienen también recursos de terceros pero es más CONTENIDO PARTICULAR de cada alumno, con lo que tendremos que subirlo a un Drive nuestro, para que no ocupen demasiado espacio en LFS
 Content/Megascans/
 Content/MSPresets/
